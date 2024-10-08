@@ -1,11 +1,7 @@
-using System.Text.Json.Serialization;
+namespace DoctorAppointmentWebApi.DTOs.InputDTO;
 
-namespace DoctorAppointmentWebApi.DTOs;
-
-public class PatientDto
+public class PatientInputDto
 {
-    [JsonIgnore]
-    public Guid PatientID { get; set; }
     public string FirstName { get; set; }
     public string LastName { get; set; }
     public DateTime? DateOfBirth { get; set; }
@@ -14,5 +10,4 @@ public class PatientDto
     public string Email { get; set; }
     public string Address { get; set; }
     public string InsuranceNumber { get; set; }
-    
 }

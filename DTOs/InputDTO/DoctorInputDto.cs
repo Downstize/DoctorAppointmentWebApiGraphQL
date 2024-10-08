@@ -1,13 +1,7 @@
-using System.Text.Json.Serialization;
-using MassTransit;
+namespace DoctorAppointmentWebApi.DTOs.InputDTO;
 
-namespace DoctorAppointmentWebApi.DTOs;
-
-public class DoctorDto
+public class DoctorInputDto
 {
-    [JsonIgnore]
-    public Guid DoctorId { get; set; }
-    
     public string FirstName { get; set; }
     
     public string LastName { get; set; }
@@ -21,5 +15,4 @@ public class DoctorDto
     public string Email { get; set; }
     
     public string RoomNumber { get; set; }
-
 }
