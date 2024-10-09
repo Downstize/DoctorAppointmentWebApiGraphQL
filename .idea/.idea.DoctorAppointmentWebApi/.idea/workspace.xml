@@ -9,34 +9,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="532784e5-f5ce-4866-a680-971d1076f7ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DTOs/InputDTO/AppointmentInputDto.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DTOs/InputDTO/DepartmentInputDto.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DTOs/InputDTO/DoctorInputDto.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DTOs/InputDTO/DoctorScheduleInputDto.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DTOs/InputDTO/PatientInputDto.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DTOs/InputDTO/SpecializationInputDto.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mutations/AppointmentMutation.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mutations/DepartmentMutation.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mutations/DoctorMutation.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mutations/DoctorScheduleMutation.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mutations/PatientMutation.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mutations/SpecializationMutation.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Queries/AppointmentQuery.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Queries/DepartmentQuery.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Queries/DoctorQuery.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Queries/DoctorScheduleQuery.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Queries/PatientQuery.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Queries/SpecializationQuery.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DoctorAppointmentWebApi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DoctorAppointmentWebApi/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DTOs/AppointmentDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DTOs/AppointmentDto.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DTOs/DepartmentDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DTOs/DepartmentDto.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DTOs/DoctorDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DTOs/DoctorDto.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DTOs/DoctorScheduleDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DTOs/DoctorScheduleDto.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DTOs/PatientDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DTOs/PatientDto.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DTOs/SpecializationDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DTOs/SpecializationDto.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DoctorAppointmentWebApi.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/DoctorAppointmentWebApi.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DoctorAppointmentWebApi.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/DoctorAppointmentWebApi.sln.DotSettings.user" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DTOs/InputDTO/DoctorScheduleInputDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DTOs/InputDTO/DoctorScheduleInputDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Link.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mutations/DoctorScheduleMutation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mutations/DoctorScheduleMutation.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherForecast.cs" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,12 +32,12 @@
     &quot;assignee&quot;: &quot;Downstize&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Downstize/DoctorAppointmentWebApiGraphQL.git",
-    "accountId": "180f9c44-5558-438e-b108-39c017975fc6"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Downstize/DoctorAppointmentWebApiGraphQL.git&quot;,
+    &quot;accountId&quot;: &quot;180f9c44-5558-438e-b108-39c017975fc6&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/3bd4df5aff92cabbc4d630be64227073db1b8539b3a1e47786b4b189d7cdb7/DbContext.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/e747192abb38e2df82cbdb37e721567726f559914a7b81f8b26ba537de632f4/List.cs" root0="FORCE_HIGHLIGHTING" />
@@ -81,25 +58,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Launch Settings Profile.DoctorAppointmentWebApi: http.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Launch Settings Profile.DoctorAppointmentWebApi: http.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "postgresql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Launch Settings Profile.DoctorAppointmentWebApi: http">
     <configuration name="DoctorAppointmentWebApi: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/DoctorAppointmentWebApi.csproj" />
@@ -180,7 +157,9 @@
       <workItem from="1727879780035" duration="10515000" />
       <workItem from="1728392607068" duration="2408000" />
       <workItem from="1728410687742" duration="2268000" />
-      <workItem from="1728414059150" duration="10465000" />
+      <workItem from="1728414059150" duration="10627000" />
+      <workItem from="1728476585418" duration="1928000" />
+      <workItem from="1728484207761" duration="1859000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <option name="closed" value="true" />
@@ -222,7 +201,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728414293130</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Ready full CRUD (Queries, Mutations)">
+      <option name="closed" value="true" />
+      <created>1728428230182</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1728428230182</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,6 +225,7 @@
     <MESSAGE value="Added: RootController.cs, SpecializationsController.cs &amp; Models &amp; DTO's" />
     <MESSAGE value="Added full CRUD" />
     <MESSAGE value="GraphQL" />
-    <option name="LAST_COMMIT_MESSAGE" value="GraphQL" />
+    <MESSAGE value="Ready full CRUD (Queries, Mutations)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ready full CRUD (Queries, Mutations)" />
   </component>
 </project>

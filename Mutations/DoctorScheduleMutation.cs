@@ -20,8 +20,8 @@ public class DoctorScheduleMutation
         var doctorSchedule = new DoctorSchedule
         {
             DoctorId = doctorScheduleDto.DoctorId,
-            AvailableFrom = doctorScheduleDto.AvailableFrom,
-            AvailableTo = doctorScheduleDto.AvailableTo,
+            AvailableFrom = TimeSpan.Parse(doctorScheduleDto.AvailableFrom),
+            AvailableTo = TimeSpan.Parse(doctorScheduleDto.AvailableTo),
             DayOfWeek = doctorScheduleDto.DayOfWeek
         };
 
@@ -53,8 +53,8 @@ public class DoctorScheduleMutation
             return null;
         }
         
-        doctorSchedule.AvailableFrom = updatedDoctorScheduleDto.AvailableFrom;
-        doctorSchedule.AvailableTo = updatedDoctorScheduleDto.AvailableTo;
+        doctorSchedule.AvailableFrom = TimeSpan.Parse(updatedDoctorScheduleDto.AvailableFrom);
+        doctorSchedule.AvailableTo = TimeSpan.Parse(updatedDoctorScheduleDto.AvailableTo);
         doctorSchedule.DayOfWeek = updatedDoctorScheduleDto.DayOfWeek;
         
         await _context.SaveChangesAsync();
