@@ -9,11 +9,63 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="532784e5-f5ce-4866-a680-971d1076f7ad" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DoctorAppointmentWebApi/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DoctorAppointmentWebApi/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DoctorAppointmentWebApi/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DoctorAppointmentWebApi/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DoctorAppointmentWebApi/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DoctorAppointmentWebApi/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DoctorAppointmentWebApi/.idea/dataSources/d34d600f-e05e-4fc0-b331-cb67f10edb3e.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DoctorAppointmentWebApi/.idea/dataSources/d34d600f-e05e-4fc0-b331-cb67f10edb3e.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DoctorAppointmentWebApi/.idea/dataSources/d34d600f-e05e-4fc0-b331-cb67f10edb3e/storage_v2/_src_/database/doctorAppointment.ANldTA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DoctorAppointmentWebApi/.idea/dataSources/d34d600f-e05e-4fc0-b331-cb67f10edb3e/storage_v2/_src_/database/doctorAppointment.ANldTA.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DoctorAppointmentWebApi/.idea/dataSources/d34d600f-e05e-4fc0-b331-cb67f10edb3e/storage_v2/_src_/database/doctorAppointment.ANldTA/schema/information_schema.FNRwLQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DoctorAppointmentWebApi/.idea/dataSources/d34d600f-e05e-4fc0-b331-cb67f10edb3e/storage_v2/_src_/database/doctorAppointment.ANldTA/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DoctorAppointmentWebApi/.idea/dataSources/d34d600f-e05e-4fc0-b331-cb67f10edb3e/storage_v2/_src_/database/doctorAppointment.ANldTA/schema/information_schema.FNRwLQ.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DoctorAppointmentWebApi/.idea/dataSources/d34d600f-e05e-4fc0-b331-cb67f10edb3e/storage_v2/_src_/database/doctorAppointment.ANldTA/schema/information_schema.FNRwLQ.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DoctorAppointmentWebApi/.idea/dataSources/d34d600f-e05e-4fc0-b331-cb67f10edb3e/storage_v2/_src_/database/doctorAppointment.ANldTA/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DoctorAppointmentWebApi/.idea/dataSources/d34d600f-e05e-4fc0-b331-cb67f10edb3e/storage_v2/_src_/database/doctorAppointment.ANldTA/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DoctorAppointmentWebApi/.idea/dataSources/d34d600f-e05e-4fc0-b331-cb67f10edb3e/storage_v2/_src_/database/doctorAppointment.ANldTA/schema/pg_catalog.0S1ZNQ.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DoctorAppointmentWebApi/.idea/dataSources/d34d600f-e05e-4fc0-b331-cb67f10edb3e/storage_v2/_src_/database/doctorAppointment.ANldTA/schema/pg_catalog.0S1ZNQ.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DoctorAppointmentWebApi/.idea/dataSources/d34d600f-e05e-4fc0-b331-cb67f10edb3e/storage_v2/_src_/database/doctorAppointment.ANldTA/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DoctorAppointmentWebApi/.idea/dataSources/d34d600f-e05e-4fc0-b331-cb67f10edb3e/storage_v2/_src_/database/doctorAppointment.ANldTA/schema/public.abK9xQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DoctorAppointmentWebApi/.idea/dataSources/d34d600f-e05e-4fc0-b331-cb67f10edb3e/storage_v2/_src_/database/postgres.edMnLQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DoctorAppointmentWebApi/.idea/dataSources/d34d600f-e05e-4fc0-b331-cb67f10edb3e/storage_v2/_src_/database/postgres.edMnLQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DoctorAppointmentWebApi/.idea/dataSources/d34d600f-e05e-4fc0-b331-cb67f10edb3e/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DoctorAppointmentWebApi/.idea/dataSources/d34d600f-e05e-4fc0-b331-cb67f10edb3e/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DoctorAppointmentWebApi/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DoctorAppointmentWebApi/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DoctorAppointmentWebApi/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DoctorAppointmentWebApi/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DoctorAppointmentWebApi/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DoctorAppointmentWebApi/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DoctorAppointmentWebApi/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DoctorAppointmentWebApi/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DoctorAppointmentWebApi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DoctorAppointmentWebApi/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ApplicationDbContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DTOs/AppointmentDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DTOs/AppointmentDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DTOs/DepartmentDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DTOs/DepartmentDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DTOs/DoctorDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DTOs/DoctorDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DTOs/DoctorScheduleDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DTOs/DoctorScheduleDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DTOs/InputDTO/AppointmentInputDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DTOs/InputDTO/AppointmentInputDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DTOs/InputDTO/DepartmentInputDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DTOs/InputDTO/DepartmentInputDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DTOs/InputDTO/DoctorInputDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DTOs/InputDTO/DoctorInputDto.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DTOs/InputDTO/DoctorScheduleInputDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DTOs/InputDTO/DoctorScheduleInputDto.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Link.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DTOs/InputDTO/PatientInputDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DTOs/InputDTO/PatientInputDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DTOs/InputDTO/SpecializationInputDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DTOs/InputDTO/SpecializationInputDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DTOs/PatientDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DTOs/PatientDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DTOs/SpecializationDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DTOs/SpecializationDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoctorAppointmentWebApi.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/DoctorAppointmentWebApi.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoctorAppointmentWebApi.http" beforeDir="false" afterPath="$PROJECT_DIR$/DoctorAppointmentWebApi.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoctorAppointmentWebApi.sln" beforeDir="false" afterPath="$PROJECT_DIR$/DoctorAppointmentWebApi.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoctorAppointmentWebApi.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/DoctorAppointmentWebApi.sln.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Appointment.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Appointment.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Department.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Department.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Doctor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Doctor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/DoctorSchedule.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/DoctorSchedule.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Patient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Patient.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Specialization.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Specialization.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mutations/AppointmentMutation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mutations/AppointmentMutation.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mutations/DepartmentMutation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mutations/DepartmentMutation.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mutations/DoctorMutation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mutations/DoctorMutation.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mutations/DoctorScheduleMutation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mutations/DoctorScheduleMutation.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeatherForecast.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mutations/PatientMutation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mutations/PatientMutation.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mutations/SpecializationMutation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mutations/SpecializationMutation.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Properties/launchSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queries/AppointmentQuery.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Queries/AppointmentQuery.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queries/DepartmentQuery.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Queries/DepartmentQuery.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queries/DoctorQuery.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Queries/DoctorQuery.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queries/DoctorScheduleQuery.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Queries/DoctorScheduleQuery.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queries/PatientQuery.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Queries/PatientQuery.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queries/SpecializationQuery.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Queries/SpecializationQuery.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/appsettings.Development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/appsettings.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +99,9 @@
   &quot;isMigrated&quot;: true
 }</component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="SWEA" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -97,6 +152,36 @@
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/DoctorAppointmentWebApi.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value="net8.0" />
       <option name="LAUNCH_PROFILE_NAME" value="http" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="DoctorAppointmentWebApi: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/DoctorAppointmentWebApi.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value="net8.0" />
+      <option name="LAUNCH_PROFILE_NAME" value="http" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="DoctorAppointmentWebApi: https" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/DoctorAppointmentWebApi.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value="net8.0" />
+      <option name="LAUNCH_PROFILE_NAME" value="https" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
@@ -159,7 +244,14 @@
       <workItem from="1728410687742" duration="2268000" />
       <workItem from="1728414059150" duration="10627000" />
       <workItem from="1728476585418" duration="1928000" />
-      <workItem from="1728484207761" duration="1859000" />
+      <workItem from="1728484207761" duration="2199000" />
+      <workItem from="1728519141457" duration="4000" />
+      <workItem from="1728520461289" duration="1522000" />
+      <workItem from="1728559495732" duration="637000" />
+      <workItem from="1731592989398" duration="994000" />
+      <workItem from="1731594402963" duration="1455000" />
+      <workItem from="1734993900434" duration="1392000" />
+      <workItem from="1734998955476" duration="11000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <option name="closed" value="true" />
@@ -209,7 +301,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728428230182</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="all is ready (Mutations and Queries)">
+      <option name="closed" value="true" />
+      <created>1728486458152</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1728486458152</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,7 +318,6 @@
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
-    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Init" />
     <MESSAGE value="We can get a list of patients now. And find a patient by id" />
@@ -226,6 +325,7 @@
     <MESSAGE value="Added full CRUD" />
     <MESSAGE value="GraphQL" />
     <MESSAGE value="Ready full CRUD (Queries, Mutations)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ready full CRUD (Queries, Mutations)" />
+    <MESSAGE value="all is ready (Mutations and Queries)" />
+    <option name="LAST_COMMIT_MESSAGE" value="all is ready (Mutations and Queries)" />
   </component>
 </project>

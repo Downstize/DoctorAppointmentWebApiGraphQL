@@ -1,5 +1,7 @@
 using DoctorAppointmentWebApi.DTOs;
 using DoctorAppointmentWebApi.Models;
+using HotChocolate;
+using HotChocolate.Types;
 using Microsoft.EntityFrameworkCore;
 
 namespace DoctorAppointmentWebApi.Queries;
@@ -36,9 +38,9 @@ public class AppointmentQuery
     [GraphQLName("appointmentById")]
     public AppointmentDto GetAppointmentById(Guid id) =>
         _context.Appointments
-            .Include(a => a.Patient) // Включаем связь с пациентом
-            .Include(a => a.Doctor)  // Включаем связь с врачом
-            .Where(a => a.AppointmentId == id) // Фильтрация по ID
+            .Include(a => a.Patient)
+            .Include(a => a.Doctor)
+            .Where(a => a.AppointmentId == id)
             .Select(a => new AppointmentDto
             {
                 AppointmentId = a.AppointmentId,
@@ -48,5 +50,5 @@ public class AppointmentQuery
                 Status = a.Status,
                 Notes = a.Notes
             })
-            .FirstOrDefault()!; // Возвращаем первый найденный результат
+            .FirstOrDefault()!;
 }

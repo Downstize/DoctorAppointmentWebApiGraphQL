@@ -1,5 +1,7 @@
 using DoctorAppointmentWebApi.Models;
 using DoctorAppointmentWebApi.DTOs;
+using HotChocolate;
+using HotChocolate.Types;
 using Microsoft.EntityFrameworkCore;
 
 namespace DoctorAppointmentWebApi.Queries;

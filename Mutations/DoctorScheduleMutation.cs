@@ -1,6 +1,8 @@
 using DoctorAppointmentWebApi.DTOs;
 using DoctorAppointmentWebApi.DTOs.InputDTO;
 using DoctorAppointmentWebApi.Models;
+using HotChocolate;
+using HotChocolate.Types;
 
 namespace DoctorAppointmentWebApi.Mutations;
 

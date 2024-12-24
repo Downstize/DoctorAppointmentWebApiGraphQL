@@ -1,5 +1,7 @@
 using DoctorAppointmentWebApi.Models;
 using DoctorAppointmentWebApi.DTOs;
+using HotChocolate;
+using HotChocolate.Types;
 using Microsoft.EntityFrameworkCore;
 
 namespace DoctorAppointmentWebApi.Queries;
@@ -13,7 +15,7 @@ public class PatientQuery
     {
         _context = context;
     }
-    
+
     [GraphQLName("allPatients")]
     public List<PatientDto> GetAllPatients() =>
         _context.Patients
@@ -30,7 +32,7 @@ public class PatientQuery
                 InsuranceNumber = p.InsuranceNumber
             })
             .ToList();
-    
+
     [GraphQLName("patientById")]
     public PatientDto GetPatientById(Guid id) =>
         _context.Patients
